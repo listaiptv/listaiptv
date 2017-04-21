@@ -4,10 +4,10 @@
 
 ################################################################################# TV Aberta
 #EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP
-http://95.211.149.215:8081/look/sptv/playlist.m3u8
+http://174.138.49.243/abr/redebobo_750.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDE3IDExOjE5OjQ5IFBNJmhhc2hfdmFsdWU9b3JLL21VV1VCNlcvNUM4WVdtMndPQT09JnZhbGlkbWludXRlcz0x
 
 #EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP HD
-http://217.23.2.169:8081/edge/globo/playlist.m3u8 
+http://art.nextv.ca:80/nextv/globo/index.m3u8
 
 #EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP HD 2
-http://91.205.174.38:8081/live/sptv/chunks.m3u8 
+http://live.livecast.cc:1935/live/ch15-1/livestream.m3u8 
