@@ -1,0 +1,13 @@
+
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://i.imgur.com/keUbAmz.jpg" pltv-name="TV" pltv-description="TV" pltv-cover="http://i.imgur.com/IH98IrP.png" pltv-author="TV" pltv-site="www.google.com" pltv-email="XXX E-MAIL XXX"
+
+################################################################################# TV Aberta
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP
+http://95.211.149.215:8081/look/sptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP HD
+http://217.23.2.169:8081/edge/globo/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP HD 2
+http://91.205.174.38:8081/live/sptv/chunks.m3u8 
